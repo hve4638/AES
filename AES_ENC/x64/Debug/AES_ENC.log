@@ -1,0 +1,6 @@
+﻿  aes.c
+C:\Hv\Git\AES\AES_ENC\aes.c(298,10): warning C4098: 'AES_DEC_Optimization': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(246,5): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(309,13): warning C4101: 'DT' :참조되지 않은 지역 변수입니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(309,21): warning C4101: 'DT2' :참조되지 않은 지역 변수입니다.
+  AES_ENC.vcxproj -> C:\Hv\Git\AES\x64\Debug\AES_ENC.exe
