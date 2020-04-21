@@ -1,6 +1,10 @@
 ﻿  aes.c
-C:\Hv\Git\AES\AES_ENC\aes.c(299,10): warning C4098: 'AES_DEC_Optimization': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Hv\Git\AES\AES_ENC\aes.c(247,5): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
-C:\Hv\Git\AES\AES_ENC\aes.c(347,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Hv\Git\AES\AES_ENC\aes.c(388,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Hv\Git\AES\AES_ENC\aes.h(780,10): warning C4098: 'AES_DEC_Optimization': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Hv\Git\AES\AES_ENC\aes.h(728,5): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(63,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(103,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(136,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(141,35): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(184,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Hv\Git\AES\AES_ENC\aes.c(192,36): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
   AES_ENC.vcxproj -> C:\Hv\Git\AES\x64\Debug\AES_ENC.exe
