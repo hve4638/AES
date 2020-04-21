@@ -1,5 +1,0 @@
-﻿  aes.c
-C:\Users\hve46\source\repos\AES_ENC\AES_ENC\aes.c(238,25): warning C4133: '함수': 'u32 *'과(와) 'u8 *' 사이의 형식이 호환되지 않습니다.
-C:\Users\hve46\source\repos\AES_ENC\AES_ENC\aes.c(261,25): warning C4133: '함수': 'u32 *'과(와) 'u8 *' 사이의 형식이 호환되지 않습니다.
-C:\Users\hve46\source\repos\AES_ENC\AES_ENC\aes.c(274,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
-  AES_ENC.vcxproj -> C:\Users\hve46\source\repos\AES_ENC\Debug\AES_ENC.exe
